@@ -1,0 +1,9 @@
+mohammed 1 90
+tamer    2 55
+attt     3 80
+mohammed 4 90
+tamer    5 55
+attt     6 80
+mohammed 7 90
+tamer    8 55
+attt     9 80
